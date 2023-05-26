@@ -1,0 +1,9 @@
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogek2.csv
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe.config
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.pdb
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.AssemblyReference.cache
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.CoreCompileInputs.cache
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.exe
+C:\Users\fazir\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.pdb

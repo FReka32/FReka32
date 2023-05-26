@@ -1,0 +1,18 @@
+﻿<Window x:Class="LabirintusGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabirintusGUI"
+        mc:Ignorable="d"
+        Title="Labirintus készítő" Height="450" Width="400">
+    <Canvas Name="vaszon">
+        <Label Name="lbl_Meret" Content="Labirinitus mérete [sor x oszlop]" HorizontalAlignment="Left" Margin="33,32,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="cmb_Sor" HorizontalAlignment="Left" Margin="219,40,0,0" VerticalAlignment="Top" Width="50"/>
+        <ComboBox Name="cmb_Oszlop" HorizontalAlignment="Left" Margin="289,40,0,0" VerticalAlignment="Top" Width="50"/>
+        <Button Name="btn_Letrehozas" Content="Induló labirintus létrehozása" HorizontalAlignment="Left" Margin="29,79,0,0" VerticalAlignment="Top" Width="163" Click="btn_Letrehozas_Click"/>
+        <Button Name="btn_Mentes" Content="Labirintus mentése" HorizontalAlignment="Left" Margin="210,79,0,0" VerticalAlignment="Top" Width="111" Click="btn_Mentes_Click"/>
+        <ComboBox Name="cmb_FajlSorszam" HorizontalAlignment="Left" Margin="333,78,0,0" VerticalAlignment="Top" Width="50"/>
+
+    </Canvas>
+</Window>

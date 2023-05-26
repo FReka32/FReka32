@@ -1,0 +1,12 @@
+/*2morotva*/
+SELECT alloviz.nev, alloviz.terulet FROM `alloviz` WHERE alloviz.tipus LIKE "%morotva%" ORDER BY alloviz.terulet DESC;
+/*3vizarany*/
+select sum(terulet) / 93036 as vizarany from alloviz;
+/*4kozepes*/
+SELECT alloviz.nev, alloviz.tipus, alloviz.terulet FROM `alloviz` WHERE alloviz.terulet >= 3 AND alloviz.terulet <=10 AND alloviz.vizgyujto >= alloviz.terulet*10;
+/*5sok*/
+/*6keletnyugat*/
+/*7egyegy*/
+/*8tipus*/
+/**/
+/**/

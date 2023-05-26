@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fazekas_Reka_backend.props" />
+</Project>

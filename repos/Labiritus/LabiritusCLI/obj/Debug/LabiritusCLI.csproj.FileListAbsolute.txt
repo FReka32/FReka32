@@ -1,0 +1,9 @@
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\bin\Debug\Lab1.txt
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\bin\Debug\LabiritusCLI.exe.config
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\bin\Debug\LabiritusCLI.exe
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\bin\Debug\LabiritusCLI.pdb
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\obj\Debug\LabiritusCLI.csproj.AssemblyReference.cache
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\obj\Debug\LabiritusCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\obj\Debug\LabiritusCLI.csproj.CoreCompileInputs.cache
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\obj\Debug\LabiritusCLI.exe
+C:\Users\fazir\source\repos\Labiritus\LabiritusCLI\obj\Debug\LabiritusCLI.pdb

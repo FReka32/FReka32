@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabiritusCLI", "LabiritusCLI\LabiritusCLI.csproj", "{D2E55C5D-0CAA-4EF2-B17C-B92E1490BD43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E55C5D-0CAA-4EF2-B17C-B92E1490BD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E55C5D-0CAA-4EF2-B17C-B92E1490BD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E55C5D-0CAA-4EF2-B17C-B92E1490BD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E55C5D-0CAA-4EF2-B17C-B92E1490BD43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057ACFA9-691F-4F4D-B87F-5D572CD3FDA4}
+	EndGlobalSection
+EndGlobal

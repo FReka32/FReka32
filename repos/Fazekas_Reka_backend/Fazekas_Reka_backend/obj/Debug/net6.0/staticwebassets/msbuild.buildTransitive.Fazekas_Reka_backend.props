@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Fazekas_Reka_backend.props" />
+</Project>
