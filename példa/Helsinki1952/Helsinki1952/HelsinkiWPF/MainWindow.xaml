@@ -1,0 +1,15 @@
+﻿<Window x:Class="HelsinkiWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelsinkiWPF"
+        mc:Ignorable="d"
+        Title="HelsinkiWPF" Height="450" Width="800">
+    <Grid>
+        <Button Content="Diszkvalifikál" HorizontalAlignment="Left" Margin="593,259,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <DataGrid Name="dg" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="42,45,253,110"/>
+        <Button Content="Mentés" HorizontalAlignment="Left" Margin="593,304,0,0" VerticalAlignment="Top" Width="71" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

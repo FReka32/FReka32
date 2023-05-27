@@ -1,0 +1,9 @@
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\bin\Debug\helsinki.txt
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\bin\Debug\HelsinkiConsole.exe.config
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\bin\Debug\HelsinkiConsole.exe
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\bin\Debug\HelsinkiConsole.pdb
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\obj\Debug\HelsinkiConsole.csproj.AssemblyReference.cache
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\obj\Debug\HelsinkiConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\obj\Debug\HelsinkiConsole.csproj.CoreCompileInputs.cache
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\obj\Debug\HelsinkiConsole.exe
+C:\Users\kerenyir\source\repos\Helsinki1952\HelsinkiConsole\obj\Debug\HelsinkiConsole.pdb

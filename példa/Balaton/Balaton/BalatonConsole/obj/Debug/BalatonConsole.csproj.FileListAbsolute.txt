@@ -1,0 +1,9 @@
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\bin\Debug\utca.txt
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\bin\Debug\BalatonConsole.exe.config
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\bin\Debug\BalatonConsole.exe
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\bin\Debug\BalatonConsole.pdb
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\obj\Debug\BalatonConsole.csproj.AssemblyReference.cache
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\obj\Debug\BalatonConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\obj\Debug\BalatonConsole.csproj.CoreCompileInputs.cache
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\obj\Debug\BalatonConsole.exe
+C:\Users\kerenyir\source\repos\Balaton\BalatonConsole\obj\Debug\BalatonConsole.pdb
