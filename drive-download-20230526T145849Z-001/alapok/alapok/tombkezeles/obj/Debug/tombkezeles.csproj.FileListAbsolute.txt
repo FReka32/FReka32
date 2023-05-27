@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\alapok\tombkezeles\bin\Debug\tombkezeles.exe.config
+C:\Users\Admin\source\repos\alapok\tombkezeles\bin\Debug\tombkezeles.exe
+C:\Users\Admin\source\repos\alapok\tombkezeles\bin\Debug\tombkezeles.pdb
+C:\Users\Admin\source\repos\alapok\tombkezeles\obj\Debug\tombkezeles.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\alapok\tombkezeles\obj\Debug\tombkezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\alapok\tombkezeles\obj\Debug\tombkezeles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\alapok\tombkezeles\obj\Debug\tombkezeles.exe
+C:\Users\Admin\source\repos\alapok\tombkezeles\obj\Debug\tombkezeles.pdb

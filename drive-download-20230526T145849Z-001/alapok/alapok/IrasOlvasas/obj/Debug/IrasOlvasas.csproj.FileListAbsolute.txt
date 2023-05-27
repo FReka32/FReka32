@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\bin\Debug\IrasOlvasas.exe.config
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\bin\Debug\IrasOlvasas.exe
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\bin\Debug\IrasOlvasas.pdb
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\obj\Debug\IrasOlvasas.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\obj\Debug\IrasOlvasas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\obj\Debug\IrasOlvasas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\obj\Debug\IrasOlvasas.exe
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\obj\Debug\IrasOlvasas.pdb
+C:\Users\Admin\source\repos\alapok\IrasOlvasas\bin\Debug\Students.csv

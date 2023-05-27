@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\alapok\veletlen\bin\Debug\veletlen.exe.config
+C:\Users\Admin\source\repos\alapok\veletlen\bin\Debug\veletlen.exe
+C:\Users\Admin\source\repos\alapok\veletlen\bin\Debug\veletlen.pdb
+C:\Users\Admin\source\repos\alapok\veletlen\obj\Debug\veletlen.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\alapok\veletlen\obj\Debug\veletlen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\alapok\veletlen\obj\Debug\veletlen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\alapok\veletlen\obj\Debug\veletlen.exe
+C:\Users\Admin\source\repos\alapok\veletlen\obj\Debug\veletlen.pdb

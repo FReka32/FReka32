@@ -1,0 +1,15 @@
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\bin\Debug\KaracsonyWPF.exe.config
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\bin\Debug\KaracsonyWPF.exe
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\bin\Debug\KaracsonyWPF.pdb
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.csproj.AssemblyReference.cache
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\App.g.cs
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF_MarkupCompile.cache
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF_MarkupCompile.lref
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\MainWindow.baml
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.g.resources
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.Properties.Resources.resources
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.csproj.GenerateResource.cache
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.csproj.CoreCompileInputs.cache
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.exe
+C:\Users\FAZEKASR\source\repos\KaracsonyWPF\KaracsonyWPF\obj\Debug\KaracsonyWPF.pdb

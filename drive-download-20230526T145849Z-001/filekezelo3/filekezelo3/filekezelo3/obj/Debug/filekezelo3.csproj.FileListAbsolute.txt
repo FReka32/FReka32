@@ -1,0 +1,15 @@
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.csproj.AssemblyReference.cache
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\MainWindow.g.cs
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\App.g.cs
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3_MarkupCompile.cache
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3_MarkupCompile.lref
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\bin\Debug\filekezelo3.exe.config
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\bin\Debug\filekezelo3.exe
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\bin\Debug\filekezelo3.pdb
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\MainWindow.baml
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.g.resources
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.Properties.Resources.resources
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.csproj.GenerateResource.cache
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.csproj.CoreCompileInputs.cache
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.exe
+C:\Users\FAZEKASR\source\repos\filekezelo3\filekezelo3\obj\Debug\filekezelo3.pdb

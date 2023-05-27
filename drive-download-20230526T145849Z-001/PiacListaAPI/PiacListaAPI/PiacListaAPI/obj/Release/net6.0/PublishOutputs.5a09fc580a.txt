@@ -1,0 +1,11 @@
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\PiacListaAPI.exe
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\PiacListaAPI.dll
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\PiacListaAPI.deps.json
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\PiacListaAPI.runtimeconfig.json
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\PiacListaAPI.pdb
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FAZEKASR\source\repos\PiacListaAPI\PiacListaAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

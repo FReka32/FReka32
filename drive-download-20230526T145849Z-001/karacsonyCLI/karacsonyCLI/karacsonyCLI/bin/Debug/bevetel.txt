@@ -1,0 +1,17 @@
+6.nap : 13250 Ft;
+11.nap : 13550 Ft;
+14.nap : 10350 Ft;
+16.nap : 14850 Ft;
+17.nap : 12100 Ft;
+18.nap : 16750 Ft;
+23.nap : 13050 Ft;
+24.nap : 17250 Ft;
+28.nap : 16050 Ft;
+29.nap : 21100 Ft;
+30.nap : 20700 Ft;
+31.nap : 17600 Ft;
+33.nap : 11400 Ft;
+36.nap : 11700 Ft;
+38.nap : 11250 Ft;
+39.nap : 14750 Ft;
+Ennyi napon lett a bevétel legalább 10000 Ft: 16

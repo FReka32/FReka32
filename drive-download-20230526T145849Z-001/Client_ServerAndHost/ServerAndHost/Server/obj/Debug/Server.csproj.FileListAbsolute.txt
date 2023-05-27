@@ -1,0 +1,7 @@
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\bin\Server.dll.config
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\bin\Server.dll
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\bin\Server.pdb
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\obj\Debug\Server.dll
+C:\Users\FazekasR\source\repos\ServerAndHost\Server\obj\Debug\Server.pdb

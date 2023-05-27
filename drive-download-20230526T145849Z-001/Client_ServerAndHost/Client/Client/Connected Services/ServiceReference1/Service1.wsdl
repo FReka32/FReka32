@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:3000/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:3000/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:3000/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Server" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_EgyGalambGet_InputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambGet" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambGet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambGetResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambGetCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambGetCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambGetCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambGetCSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambPostCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambPostCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambPostCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambPostCSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambPost_InputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambPost" />
+  </wsdl:message>
+  <wsdl:message name="IService1_EgyGalambPost_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EgyGalambPostResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambLista_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambLista" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambLista_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambListaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambListaCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambListaCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambListaCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambListaCSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPost_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPost" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPost_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPostResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPostCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPostCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPostCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPostCSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPut_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPut" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPut_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPutResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPutCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPutCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambPutCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambPutCSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambDelete_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambDelete" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambDelete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambDeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambDeleteCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambDeleteCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambDeleteCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambDeleteCSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambDeleteParameter_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambDeleteParameter" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambDeleteParameter_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambDeleteParameterResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambGetID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambGetID" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambGetID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambGetIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambGetIDCS_InputMessage">
+    <wsdl:part name="parameters" element="tns:GalambGetIDCS" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GalambGetIDCS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GalambGetIDCSResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="EgyGalambGet">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/EgyGalambGet" message="tns:IService1_EgyGalambGet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/EgyGalambGetResponse" message="tns:IService1_EgyGalambGet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EgyGalambGetCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/EgyGalambGetCS" message="tns:IService1_EgyGalambGetCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/EgyGalambGetCSResponse" message="tns:IService1_EgyGalambGetCS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EgyGalambPostCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/EgyGalambPostCS" message="tns:IService1_EgyGalambPostCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/EgyGalambPostCSResponse" message="tns:IService1_EgyGalambPostCS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EgyGalambPost">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/EgyGalambPost" message="tns:IService1_EgyGalambPost_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/EgyGalambPostResponse" message="tns:IService1_EgyGalambPost_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambLista">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambLista" message="tns:IService1_GalambLista_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambListaResponse" message="tns:IService1_GalambLista_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambListaCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambListaCS" message="tns:IService1_GalambListaCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambListaCSResponse" message="tns:IService1_GalambListaCS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambPost">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambPost" message="tns:IService1_GalambPost_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambPostResponse" message="tns:IService1_GalambPost_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambPostCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambPostCS" message="tns:IService1_GalambPostCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambPostCSResponse" message="tns:IService1_GalambPostCS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambPut">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambPut" message="tns:IService1_GalambPut_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambPutResponse" message="tns:IService1_GalambPut_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambPutCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambPutCS" message="tns:IService1_GalambPutCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambPutCSResponse" message="tns:IService1_GalambPutCS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambDelete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambDelete" message="tns:IService1_GalambDelete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambDeleteResponse" message="tns:IService1_GalambDelete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambDeleteCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambDeleteCS" message="tns:IService1_GalambDeleteCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambDeleteCSResponse" message="tns:IService1_GalambDeleteCS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambDeleteParameter">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambDeleteParameter" message="tns:IService1_GalambDeleteParameter_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambDeleteParameterResponse" message="tns:IService1_GalambDeleteParameter_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambGetID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambGetID" message="tns:IService1_GalambGetID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambGetIDResponse" message="tns:IService1_GalambGetID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GalambGetIDCS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GalambGetIDCS" message="tns:IService1_GalambGetIDCS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GalambGetIDCSResponse" message="tns:IService1_GalambGetIDCS_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:service name="Service1" />
+</wsdl:definitions>
