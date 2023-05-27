@@ -1,0 +1,11 @@
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\bin\Debug\raktarprogram.exe.config
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\bin\Debug\raktarprogram.exe
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\bin\Debug\raktarprogram.pdb
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.csproj.AssemblyReference.cache
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.Properties.Resources.resources
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.csproj.GenerateResource.cache
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.csproj.CoreCompileInputs.cache
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.exe
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.pdb
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.Form1.resources
+C:\Users\FAZEKASR\source\repos\raktarprogram\raktarprogram\obj\Debug\raktarprogram.Form2.resources

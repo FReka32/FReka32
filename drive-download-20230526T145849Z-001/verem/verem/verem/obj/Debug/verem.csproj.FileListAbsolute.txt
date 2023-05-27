@@ -1,0 +1,15 @@
+C:\Users\FAZEKASR\source\repos\verem\verem\bin\Debug\verem.exe.config
+C:\Users\FAZEKASR\source\repos\verem\verem\bin\Debug\verem.exe
+C:\Users\FAZEKASR\source\repos\verem\verem\bin\Debug\verem.pdb
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.csproj.AssemblyReference.cache
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\MainWindow.g.cs
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\App.g.cs
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem_MarkupCompile.cache
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem_MarkupCompile.lref
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\MainWindow.baml
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.g.resources
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.Properties.Resources.resources
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.csproj.GenerateResource.cache
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.csproj.CoreCompileInputs.cache
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.exe
+C:\Users\FAZEKASR\source\repos\verem\verem\obj\Debug\verem.pdb

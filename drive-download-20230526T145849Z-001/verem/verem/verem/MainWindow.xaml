@@ -1,0 +1,27 @@
+﻿<Window x:Class="verem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:verem"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="pop_button" Content="POP" HorizontalAlignment="Center" VerticalAlignment="Top" Height="23" Width="75" Margin="308,185,410.6,0" Click="pop_button_Click"/>
+        <Button Name="push_button" Content="PUSH" HorizontalAlignment="Center" VerticalAlignment="Center" Height="23" Width="75" Margin="308,254,410.6,143" Click="push_button_Click"/>
+        <Button Name="verem_button" Content="VEREM" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="23" Width="75" Margin="308,0,410.6,64" Click="verem_button_Click"/>
+        <TextBox Name="verem_textbox"  Height="23" TextWrapping="Wrap" Text="" Width="23" Margin="425,333,345.6,64"/>
+        <TextBox Name="push_textbox" Height="23" TextWrapping="Wrap" Text="" Width="23" Margin="425,254,345.6,143"/>
+        <TextBox Name="pop_textbox" Height="23" TextWrapping="Wrap" Text="" Width="23" Margin="425,185,345.6,212"/>
+        <RichTextBox Name="verem_box" Width="75"  Margin="192,156,526.6,64" Visibility="Hidden">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label Name="hiba_text" Content="" HorizontalAlignment="Left" Width="300" Margin="308,104,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
