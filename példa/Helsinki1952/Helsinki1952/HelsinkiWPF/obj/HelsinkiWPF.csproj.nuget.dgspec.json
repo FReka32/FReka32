@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj": {}
+    "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj": {
+    "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj",
+        "projectUniqueName": "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj",
         "projectName": "HelsinkiConsole",
-        "projectPath": "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj",
+        "projectPath": "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,21 +19,21 @@
         "net472": {}
       }
     },
-    "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj": {
+    "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj",
+        "projectUniqueName": "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj",
         "projectName": "HelsinkiWPF",
-        "projectPath": "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj",
-        "packagesPath": "C:\\Users\\kerenyir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiWPF\\obj\\",
+        "projectPath": "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiWPF\\HelsinkiWPF.csproj",
+        "packagesPath": "C:\\Users\\fazekasr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\kerenyir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fazekasr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -50,8 +50,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj": {
-                "projectPath": "C:\\Users\\kerenyir\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj"
+              "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj": {
+                "projectPath": "C:\\Users\\fazekasr\\source\\repos\\Helsinki1952\\HelsinkiConsole\\HelsinkiConsole.csproj"
               }
             }
           }

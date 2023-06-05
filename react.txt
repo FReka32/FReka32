@@ -1,0 +1,13 @@
+npx create-react-app xy
+
+cd xy
+npm start
+npm run build
+ 
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/react-fontawesome
+ 
+npm i --save react-router-dom@5.1
+ 
+npm i --save bootstrap

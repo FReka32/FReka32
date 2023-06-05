@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Kerényi_Róbert_backend.props" />
-</Project>
